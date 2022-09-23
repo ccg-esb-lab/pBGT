@@ -1,0 +1,11 @@
+Boxplot: boxplotx Quartiles box, 1% whiskers, & outliers
+
+boxplotx(data) gives boxplots without need for statistics package.
+Data can be a vector, matrix, or cell array of vectors.
+NaNs can be in data and vectors can be of differing lengths.
+
+Options allow position, width and colour of boxplots to be set.
+
+Set hold on, then additional boxplots can be added.
+
+Box limits and whisker end values can be changed.

@@ -1,0 +1,17 @@
+dirROOT=/Applications/Fiji.app/macros/uJ/
+pathDATA=/Volumes/GoogleDrive/My Drive/SYNC_Projects/pBGT/ms/data/pBGT-Ramp/
+expeLabel=pBGT-AMP-Ramp
+list_pos=xy03
+list_frames=1-165
+list_channel=c1,c2,c3
+str_channel=DsRed,GFP,DIC
+segmentable_channel=GFP
+dirRAW=data_tif/
+dirTIF=data_tif/
+dirRAWMASKS=data_raw_masks/
+dirROIS=data_rois/
+dirMASKS=data_masks/
+dirDATA=data/
+dirMOVIES=data_movies/
+dirFIGURES=figures/
+dirMontage=data_montage/
