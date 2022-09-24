@@ -18,7 +18,7 @@ Data:
 **Figure 2:** Microfluidics antibiotic ramp.\
 Matlab scripts:
 [pBGT/code/Figure_2/](/code/Figure_2/)\
-Data: [pBGT/data/uJ_data/pBGT-Ramp/](/data/uJ_data/pBGT-Ramp/data/uJ_data/pBGT-Ramp/)
+Data: [pBGT/data/uJ_data/pBGT-Ramp/](/data/uJ_data/pBGT-Ramp/)
 
 **Figure 3:** Multi-copy plasmids increase survival to antibiotic pulses.\
 Matlab scripts:
