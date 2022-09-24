@@ -54,6 +54,36 @@ Jupyter Notebooks:
 Simulation data:
 [data/sim_data/](/data/sim_data/)
 
+## Supplementary Figures
+
+**Figure S1:** Correlation between PCN and fluorescent intensity.\
+
+**Figure S2:** Mean fluorescence of GFP distributions exposed to increasing drug concentrations.\
+
+**Figure S3:** Coefficient of variation of GFP distributions in response to selection.\
+
+**Figure S4:** Population-level analysis of microfluidics data.\
+
+**Figure S5:** Survival assay with AMP and a β-lactamase inhibitor.\
+
+**Figure S6:** Single-cell duplication rates.\
+
+**Figure S7:** Single-cell elongation rates.\
+
+**Figure S8:** Histograms of fluorescent intensity for classified cells.\
+
+**Figure S9:** Principal Component Analysis.\
+
+**Figure S10:** Survival probability of cells with different cell lengths and fluorescent intensities.\
+
+**Figure S11:** Fitness cost measured in single-cell data.\
+
+**Figure S12:** Fitness cost estimated at a population-level.\
+
+**Figure S13:** Rapid gene amplification is unstable in high-copy plasmids.\
+
+**Figure S14:** Stability of PCN amplification in the computational model.\
+
 ## Supplementary Movies
 
 Jupyter Notebooks used to generate movies are coded in
