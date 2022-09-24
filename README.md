@@ -9,9 +9,9 @@ https://doi.org/10.1101/2022.08.24.505173
 
 ## Figures
 
-**Figure 1:** Experimental model system
+**Figure 1:** Experimental model system\
 Matlab scripts:
-[pBGT/code/Figure_1/](/code/Figure_1/)
+[pBGT/code/Figure_1/](/code/Figure_1/)\
 
 ## Supplementary Movies
 
