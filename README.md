@@ -50,7 +50,7 @@ Data:
 
 **Figure 7:** Stochastic plasmid dynamics yield heteroresistant populations.\
 Jupyter Notebooks:
-[pBGT/code/Figure_7/](/code/Figure_7/)
+[pBGT/code/Figure_7/](/code/Figure_7/)\
 Simulation data:
 [data/sim_data/](/data/sim_data/)
 
