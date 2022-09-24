@@ -10,9 +10,9 @@ https://doi.org/10.1101/2022.08.24.505173
 ## Figures
 
 **Figure 1:** Experimental model system\
-Matlab scripts:
+> Matlab scripts:
 [code/Figure_1/](/code/Figure_1/)\
-Data:
+> Data:
 [data/Figure_1/all_strains.csv](/data/Figure_1/all_strains.csv)
 
 **Figure 2:** Microfluidics antibiotic ramp.\
