@@ -30,7 +30,7 @@ Data:
 R scripts:
 [code/Figure_4/](/code/Figure_4/)\
 MB/pBGT data:
-[data/uJ_data/pBGT-Pulse/data/pBGT_lineages.csv](/data/uJ_data/pBGT-Pulse/data/pBGT_lineages.csv)
+[data/uJ_data/pBGT-Pulse/data/pBGT_lineages.csv](/data/uJ_data/pBGT-Pulse/data/pBGT_lineages.csv)\
 MG:GT data:
 [data/uJ_data/MGGT-Pulse/data/MGGT_lineages.csv](/data/uJ_data/MGGT-Pulse/data/MGGT_lineages.csv)
 
