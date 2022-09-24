@@ -11,7 +11,31 @@ https://doi.org/10.1101/2022.08.24.505173
 
 **Figure 1:** Experimental model system\
 Matlab scripts:
-[pBGT/code/Figure_1/](/code/Figure_1/)\
+[pBGT/code/Figure_1/](/code/Figure_1/)
+
+**Figure 2:** Microfluidics antibiotic ramp.\
+Matlab scripts:
+[pBGT/code/Figure_2/](/code/Figure_2/)
+
+**Figure 3:** Multi-copy plasmids increase survival to antibiotic pulses.\
+Matlab scripts:
+[pBGT/code/Figure_3/](/code/Figure_3/)
+
+**Figure 4:** Single-cell analysis of a semi-lethal pulse.\
+Matlab scripts:
+[pBGT/code/Figure_4/](/code/Figure_4/)
+
+**Figure 5:** Microscopy montage of a microfluidics semi-lethal pulse.\
+Matlab scripts:
+[pBGT/code/Figure_5/](/code/Figure_5/)
+
+**Figure 6:** Adaptation to fluctuating environments with different strengths of selection.\
+Matlab scripts:
+[pBGT/code/Figure_6/](/code/Figure_6/)
+
+**Figure 7:** Stochastic plasmid dynamics yield heteroresistant populations.\
+Jupyter Notebooks:
+[pBGT/code/Figure_7/](/code/Figure_7/)
 
 ## Supplementary Movies
 
