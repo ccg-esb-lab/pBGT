@@ -6,6 +6,13 @@
 JCR Hernandez-Beltran, J Rodriguez-Beltran, B Aguilar Luviano, J Velez-Santiago, O Mondragon-Palomino, RC MacLean, A Fuentes-Hernandez, A San Millan, R Peña-Miller.
 https://doi.org/10.1101/2022.08.24.505173
 
+
+## Figures
+
+**Figure 1D&E:** Experimental model system\
+Matlab scripts:
+[/code/Figure_1D/](/code/Figure_1D/)\
+
 ## Supplementary Movies
 
 Jupyter Notebooks used to generate movies are coded in
