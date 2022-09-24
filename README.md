@@ -12,14 +12,19 @@ https://doi.org/10.1101/2022.08.24.505173
 **Figure 1:** Experimental model system\
 Matlab scripts:
 [pBGT/code/Figure_1/](/code/Figure_1/)
+Data:
+[pBGT/data/Figure_1/all_strains.csv](/data/Figure_1/all_strains.csv)
 
 **Figure 2:** Microfluidics antibiotic ramp.\
 Matlab scripts:
 [pBGT/code/Figure_2/](/code/Figure_2/)
+Data: [pBGT/data/uJ_data/pBGT-Ramp/](data/uJ_data/pBGT-Ramp/data/uJ_data/pBGT-Ramp/)
 
 **Figure 3:** Multi-copy plasmids increase survival to antibiotic pulses.\
 Matlab scripts:
 [pBGT/code/Figure_3/](/code/Figure_3/)
+Data:
+[pBGT/data/Figure_3/strains_survival_prob.csv](/data/Figure_3/strains_survival_prob.csv)
 
 **Figure 4:** Single-cell analysis of a semi-lethal pulse.\
 Matlab scripts:
