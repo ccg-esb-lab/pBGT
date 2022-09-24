@@ -75,7 +75,9 @@ Jupyter Notebook: [pBGT/code/Supplementary/Fig_S5.ipynb](/code/Supplementary/Fig
 **Figure S9:** Principal Component Analysis.\
 **Figure S10:** Survival probability of cells with different cell lengths and fluorescent intensities.\
 **Figure S11:** Fitness cost measured in single-cell data.\
-Jupyter Notebook: [pBGT/code/Supplementary/Fig_S4-S6-11.ipynb](/code/Supplementary/Fig_S4-S6-11.ipynb)
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S4-S6-11.ipynb](/code/Supplementary/Fig_S4-S6-11.ipynb)\
+Data:
+[data/uJ_data/processed_lineages.csv](/data/uJ_data/processed_lineages.csv)
 
 **Figure S12:** Fitness cost estimated at a population-level.\
 Jupyter Notebook: [pBGT/code/Supplementary/Fig_S12.ipynb](/code/Supplementary/Fig_S12.ipynb)
