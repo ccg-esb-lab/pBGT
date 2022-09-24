@@ -27,8 +27,10 @@ Data:
 [pBGT/data/Figure_3/strains_survival_prob.csv](/data/Figure_3/strains_survival_prob.csv)
 
 **Figure 4:** Single-cell analysis of a semi-lethal pulse.\
-Matlab scripts:
-[pBGT/code/Figure_4/](/code/Figure_4/)
+R scripts:
+[pBGT/code/Figure_4/](/code/Figure_4/)\
+Data:
+[pBGT/data/uJ_data/pBGT-Pulse/data/pBGT_lineages.csv](/data/uJ_data/pBGT-Pulse/data/pBGT_lineages.csv)
 
 **Figure 5:** Microscopy montage of a microfluidics semi-lethal pulse.\
 Matlab scripts:
