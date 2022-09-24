@@ -17,17 +17,20 @@ Data:
 [data/Figure_1/all_strains.csv](/data/Figure_1/all_strains.csv)
 
 **Figure 2:** Microfluidics antibiotic ramp.\
+PDF: [figures/Figure2.pdf](/figures/Figure2.pdf)\
 Matlab scripts:
 [code/Figure_2/](/code/Figure_2/)\
 Data: [data/uJ_data/pBGT-Ramp/](/data/uJ_data/pBGT-Ramp/)
 
 **Figure 3:** Multi-copy plasmids increase survival to antibiotic pulses.\
+PDF: [figures/Figure3.pdf](/figures/Figure3.pdf)\
 Matlab scripts:
 [code/Figure_3/](/code/Figure_3/)\
 Data:
 [data/Figure_3/strains_survival_prob.csv](/data/Figure_3/strains_survival_prob.csv)
 
 **Figure 4:** Single-cell analysis of a semi-lethal pulse.\
+PDF: [figures/Figure4.pdf](/figures/Figure4.pdf)\
 R scripts:
 [code/Figure_4/](/code/Figure_4/)\
 MB/pBGT data:
@@ -36,6 +39,7 @@ MG:GT data:
 [data/uJ_data/MGGT-Pulse/data/MGGT_lineages.csv](/data/uJ_data/MGGT-Pulse/data/MGGT_lineages.csv)
 
 **Figure 5:** Microscopy montage of a microfluidics semi-lethal pulse.\
+PDF: [figures/Figure5.pdf](/figures/Figure5.pdf)\
 Matlab scripts:
 [pBGT/code/Figure_5/](/code/Figure_5/)\
 MB/pBGT data:
@@ -44,12 +48,14 @@ MG:GT data:
 [data/uJ_data/MGGT-Pulse/data/lineages_status/](/data/uJ_data/MGGT-Pulse/data/lineages_status/)
 
 **Figure 6:** Adaptation to fluctuating environments with different strengths of selection.\
+PDF: [figures/Figure6.pdf](/figures/Figure6.pdf)\
 Matlab scripts:
 [pBGT/code/Figure_6/](/code/Figure_6/)\
 Data:
 [data/uJ_data/data/LB-AMP-LB/](/data/uJ_data/data/LB-AMP-LB/)
 
 **Figure 7:** Stochastic plasmid dynamics yield heteroresistant populations.\
+PDF: [figures/Figure7.pdf](/figures/Figure7.pdf)\
 Jupyter Notebooks:
 [pBGT/code/Figure_7/](/code/Figure_7/)\
 Simulation data:
