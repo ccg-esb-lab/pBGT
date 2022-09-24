@@ -57,32 +57,31 @@ Simulation data:
 ## Supplementary Figures
 
 **Figure S1:** Correlation between PCN and fluorescent intensity.\
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S1.ipynb](/code/Supplementary/Fig_S1.ipynb)\
 
 **Figure S2:** Mean fluorescence of GFP distributions exposed to increasing drug concentrations.\
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S2-S3.ipynb](/code/Supplementary/Fig_S2-S3.ipynb)\
 
 **Figure S3:** Coefficient of variation of GFP distributions in response to selection.\
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S2-S3.ipynb](/code/Supplementary/Fig_S2-S3.ipynb)\
+
+**Figure S5:** Survival assay with AMP and a beta-lactamase inhibitor.\
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S5.ipynb](/code/Supplementary/Fig_S5.ipynb)\
 
 **Figure S4:** Population-level analysis of microfluidics data.\
-
-**Figure S5:** Survival assay with AMP and a β-lactamase inhibitor.\
-
 **Figure S6:** Single-cell duplication rates.\
-
 **Figure S7:** Single-cell elongation rates.\
-
 **Figure S8:** Histograms of fluorescent intensity for classified cells.\
-
 **Figure S9:** Principal Component Analysis.\
-
 **Figure S10:** Survival probability of cells with different cell lengths and fluorescent intensities.\
-
 **Figure S11:** Fitness cost measured in single-cell data.\
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S4-S6-11.ipynb](/code/Supplementary/Fig_S4-S6-11.ipynb)\
 
 **Figure S12:** Fitness cost estimated at a population-level.\
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S12.ipynb](/code/Supplementary/Fig_S12.ipynb)\
 
 **Figure S13:** Rapid gene amplification is unstable in high-copy plasmids.\
-
-**Figure S14:** Stability of PCN amplification in the computational model.\
+Jupyter Notebook: [pBGT/code/Supplementary/Fig_S13.ipynb](/code/Supplementary/Fig_S13.ipynb)\
 
 ## Supplementary Movies
 
