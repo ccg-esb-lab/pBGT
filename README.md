@@ -37,6 +37,10 @@ MG:GT data:
 **Figure 5:** Microscopy montage of a microfluidics semi-lethal pulse.\
 Matlab scripts:
 [pBGT/code/Figure_5/](/code/Figure_5/)
+MB/pBGT data:
+[data/uJ_data/pBGT-Pulse/data/lineages_status/](/data/uJ_data/pBGT-Pulse/data/lineages_status/)\
+MG:GT data:
+[uJ_data/MGGT-Pulse/data/lineages_status/](/data/uJ_data/MGGT-Pulse/data/lineages_status/)
 
 **Figure 6:** Adaptation to fluctuating environments with different strengths of selection.\
 Matlab scripts:
