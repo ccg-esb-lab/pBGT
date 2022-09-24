@@ -36,7 +36,7 @@ MG:GT data:
 
 **Figure 5:** Microscopy montage of a microfluidics semi-lethal pulse.\
 Matlab scripts:
-[pBGT/code/Figure_5/](/code/Figure_5/)
+[pBGT/code/Figure_5/](/code/Figure_5/)\
 MB/pBGT data:
 [data/uJ_data/pBGT-Pulse/data/lineages_status/](/data/uJ_data/pBGT-Pulse/data/lineages_status/)\
 MG:GT data:
@@ -44,7 +44,9 @@ MG:GT data:
 
 **Figure 6:** Adaptation to fluctuating environments with different strengths of selection.\
 Matlab scripts:
-[pBGT/code/Figure_6/](/code/Figure_6/)
+[pBGT/code/Figure_6/](/code/Figure_6/)\
+Data:
+[data/uJ_data/data/LB-AMP-LB/](/data/uJ_data/data/LB-AMP-LB/)
 
 **Figure 7:** Stochastic plasmid dynamics yield heteroresistant populations.\
 Jupyter Notebooks:
