@@ -40,7 +40,7 @@ Matlab scripts:
 MB/pBGT data:
 [data/uJ_data/pBGT-Pulse/data/lineages_status/](/data/uJ_data/pBGT-Pulse/data/lineages_status/)\
 MG:GT data:
-[uJ_data/MGGT-Pulse/data/lineages_status/](/data/uJ_data/MGGT-Pulse/data/lineages_status/)
+[data/uJ_data/MGGT-Pulse/data/lineages_status/](/data/uJ_data/MGGT-Pulse/data/lineages_status/)
 
 **Figure 6:** Adaptation to fluctuating environments with different strengths of selection.\
 Matlab scripts:
@@ -51,6 +51,8 @@ Data:
 **Figure 7:** Stochastic plasmid dynamics yield heteroresistant populations.\
 Jupyter Notebooks:
 [pBGT/code/Figure_7/](/code/Figure_7/)
+Simulation data:
+[data/sim_data/](/data/sim_data/)
 
 ## Supplementary Movies
 
