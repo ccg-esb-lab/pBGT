@@ -1,6 +1,6 @@
 # Plasmid-mediated phenotypic noise leads to transient antibiotic resistance in bacterias
 
- Scripts and data used to produce figures and movies from
+ Scripts and data used to produce figures and movies from:
 
 **Plasmid-mediated phenotypic noise leads to transient antibiotic resistance in bacterias**\
 JCR Hernandez-Beltran, J Rodriguez-Beltran, B Aguilar Luviano, J Velez-Santiago, O Mondragon-Palomino, RC MacLean, A Fuentes-Hernandez, A San Millan, R Peña-Miller.
@@ -8,7 +8,7 @@ JCR Hernandez-Beltran, J Rodriguez-Beltran, B Aguilar Luviano, J Velez-Santiago,
 
 ## Overview
 
-This is the repositofy of our study on multicopy plasmid heterogeneity and its role in transient antibiotic resistance in bacteria. It containes a series of scripts for data analysis at both single-cell and population levels. Central to our study is a computational model that evaluates into the interplay between individual cell dynamics and collective bacterial behavior. This model underscores the significance of plasmid copy number variability and its resultant phenotypic noise, offering deep insights into bacterial survival mechanisms under antibiotic stress and the adaptive capabilities conferred by multicopy plasmids.
+This is the repository of our study on multicopy plasmid heterogeneity and its role in transient antibiotic resistance in bacteria. It contains a series of scripts for data analysis at both single-cell and population levels. Both our computer simulations and experimental data highlight the significance of plasmid copy number variability and its resultant phenotypic noise in the survival of bacterial populations under antibiotic stress.
 
 ## Figures
 
@@ -60,15 +60,13 @@ AVI:
 
 ## Supplementary Information: Agent-based model
 
-The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations implemented in Julia to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to better understand the role of plasmids in the evolution of antibiotic resistance.
+The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations implemented in Julia to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to evaluate the role of plasmids in the evolution of antibiotic resistance.
 
 PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)\
 Jupyter Notebook: [SupplementaryInformation.ipynb](code/Supplementary/SupplementaryInformation/SupplementaryInformation.ipynb)
 
 ## Authors
 [\@Systems Biology Lab, CCG-UNAM](https://github.com/ccg-esb-lab)
-
-
 
 ## License
 
