@@ -1,14 +1,14 @@
 # Plasmid-mediated phenotypic noise leads to transient antibiotic resistance in bacterias
 
- Scripts and data necessary to produce figures and movies from
+ Scripts and data used to produce figures and movies from
 
 **Plasmid-mediated phenotypic noise leads to transient antibiotic resistance in bacterias**\
-JCR Hernandez-Beltran, J Rodriguez-Beltran, B Aguilar Luviano, J Velez-Santiago, O Mondragon-Palomino, RC MacLean, A Fuentes-Hernandez, A San Millan, R Peña-Miller.\
+JCR Hernandez-Beltran, J Rodriguez-Beltran, B Aguilar Luviano, J Velez-Santiago, O Mondragon-Palomino, RC MacLean, A Fuentes-Hernandez, A San Millan, R Peña-Miller.
 
 
 ## Overview
 
-This supplementary material accompanies our study on the role of multicopy plasmids in transient antibiotic resistance in bacteria. The focus is on a computational model that integrates both single-cell and population-level dynamics to explore how variability in plasmid copy number (PCN) impacts bacterial survival under antibiotic pressure. Our model highlights the phenomenon of phenotypic noise resulting from PCN variability, offering insights into the survival strategies of bacterial populations. Through simulations, we demonstrate the impact of PCN diversity on bacterial adaptability and resistance, underlining the role of multicopy plasmids in these processes.
+This is the repositofy of our study on multicopy plasmid heterogeneity and its role in transient antibiotic resistance in bacteria. It containes a series of scripts for data analysis at both single-cell and population levels. Central to our study is a computational model that evaluates into the interplay between individual cell dynamics and collective bacterial behavior. This model underscores the significance of plasmid copy number variability and its resultant phenotypic noise, offering deep insights into bacterial survival mechanisms under antibiotic stress and the adaptive capabilities conferred by multicopy plasmids.
 
 ## Figures
 
@@ -31,13 +31,13 @@ Jupyter Notebook: [py-Fig_5CD.ipynb](code/py-Fig_5CD.ipynb)
 ## Supplementary Figures
 
 PDF: [Supplementary Figures](SI_pBGT.pdf)\
-Jupyter Notebook: [py-Fig_S1.ipynb](code/Supplementery/py-Fig_S1.ipynb)\
-Jupyter Notebook: [py-Fig_S2.ipynb](code/Supplementery/py-Fig_S2.ipynb)\
-Jupyter Notebook: [py-Fig_S3.ipynb](code/Supplementery/py-Fig_S3.ipynb)\
-Jupyter Notebook: [py-Fig_S4.ipynb](code/Supplementery/py-Fig_S4.ipynb)\
-Jupyter Notebook: [py-Fig_S5.ipynb](code/Supplementery/py-Fig_S5.ipynb)\
-Jupyter Notebook: [py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb](code/Supplementery/py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb)\
-Jupyter Notebook: [py-Fig_S13.ipynb](code/Supplementery/py-Fig_S13.ipynb)
+Jupyter Notebook: [py-Fig_S1.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S1.ipynb)\
+Jupyter Notebook: [py-Fig_S2.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S2.ipynb)\
+Jupyter Notebook: [py-Fig_S3.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S3.ipynb)\
+Jupyter Notebook: [py-Fig_S4.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S4.ipynb)\
+Jupyter Notebook: [py-Fig_S5.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S5.ipynb)\
+Jupyter Notebook: [py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb)\
+Jupyter Notebook: [py-Fig_S13.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S13.ipynb)
 
 ## Supplementary Movies
 
@@ -60,10 +60,10 @@ AVI:
 
 ## Supplementary Information: Agent-based model
 
-The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to better understand the role of plasmids in the evolution of antibiotic resistance.
+The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations implemented in Julia to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to better understand the role of plasmids in the evolution of antibiotic resistance.
 
 PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)
-Jupyter Notebook: [SupplementaryInformation.ipynb](code/Supplementery/SupplementaryInformation/SupplementaryInformation.ipynb)\
+Jupyter Notebook: [SupplementaryInformation.ipynb](code/Supplementary/SupplementaryInformation/SupplementaryInformation.ipynb)\
 
 ## Authors
 [\@Systems Biology Lab, CCG-UNAM](https://github.com/ccg-esb-lab)
