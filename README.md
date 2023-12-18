@@ -62,7 +62,7 @@ AVI:
 
 The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations implemented in Julia to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to better understand the role of plasmids in the evolution of antibiotic resistance.
 
-PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)
+PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)\
 Jupyter Notebook: [SupplementaryInformation.ipynb](code/Supplementary/SupplementaryInformation/SupplementaryInformation.ipynb)
 
 ## Authors
