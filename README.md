@@ -17,20 +17,20 @@ Jupyter Notebook: [Fig_1-A_jl.ipynb](code/Fig_1-A_jl.ipynb)\
 Jupyter Notebook: [Fig_1-BCDEF_jl.ipynb](code/Fig_1-BCDEF_jl.ipynb)
 
 **Figure 2:** Experimental model system.\
-Jupyter Notebook: (...)
+Jupyter Notebook: [py-Fig_2CDE.ipynb](code/py-Fig_2CDE.ipynb)
 
 **Figure 3:** Effect of antibiotics on GFP and survival under fluctuating selection.\
-Jupyter Notebook: (...)
+Jupyter Notebook: [py-Fig_3.ipynb](code/py-Fig_3.ipynb)
 
 **Figure 4:** Single-cell analysis of a semi-lethal pulse.\
-Jupyter Notebook: (...)
+Jupyter Notebook: [py-Fig_4BCDEF.ipynb](code/py-Fig_4BCDEF.ipynb)
 
 **Figure 5:** Microscopy montage of a microfluidics semi-lethal pulse.\
-Jupyter Notebook: (...)
+Jupyter Notebook: [py-Fig_5CD.ipynb](code/py-Fig_5CD.ipynb)
 
 ## Supplementary Information: Agent-based model
 
-The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. Through computer simulations, we explore how plasmid copy number variability influences the survival and adaptability of bacterial populations, providing a computational framework to better understand the role of plasmids in antibiotic resistance.
+The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to better understand the role of plasmids in the evolution of antibiotic resistance.
 
 PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)
 Jupyter Notebook: (...)
@@ -38,7 +38,13 @@ Jupyter Notebook: (...)
 ## Supplementary Figures
 
 PDF: [Supplementary Figures](SI_pBGT.pdf)\
-Jupyter Notebook: (...)
+Jupyter Notebook: [py-Fig_S1.ipynb](code/Supplementery/py-Fig_S1.ipynb)
+Jupyter Notebook: [py-Fig_S2.ipynb](code/Supplementery/py-Fig_S2.ipynb)
+Jupyter Notebook: [py-Fig_S3.ipynb](code/Supplementery/py-Fig_S3.ipynb)
+Jupyter Notebook: [py-Fig_S4.ipynb](code/Supplementery/py-Fig_S4.ipynb)
+Jupyter Notebook: [py-Fig_S5.ipynb](code/Supplementery/py-Fig_S5.ipynb)
+Jupyter Notebook: [py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb](code/Supplementery/py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb)
+Jupyter Notebook: [py-Fig_S13.ipynb](code/Supplementery/py-Fig_S13.ipynb)
 
 ## Supplementary Movies
 
