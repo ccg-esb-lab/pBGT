@@ -13,7 +13,8 @@ This supplementary material accompanies our study on the role of multicopy plasm
 ## Figures
 
 **Figure 1:** Stochastic plasmid dynamics yield heterogeneous populations.\
-Jupyter Notebook: (...)
+Jupyter Notebook: [code/Fig_1-A_jl.ipynb](Fig_1-A_jl.ipynb)
+Jupyter Notebook: [code/Fig_1-BCDEF_jl.ipynb](Fig_1-BCDEF_jl.ipynb)
 
 **Figure 2:** Experimental model system.\
 Jupyter Notebook: (...)
@@ -31,7 +32,7 @@ Jupyter Notebook: (...)
 
 The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. Through computer simulations, we explore how plasmid copy number variability influences the survival and adaptability of bacterial populations, providing a computational framework to better understand the role of plasmids in antibiotic resistance.
 
-PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)\
+PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)
 Jupyter Notebook: (...)
 
 ## Supplementary Figures
