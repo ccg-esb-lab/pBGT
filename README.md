@@ -13,8 +13,8 @@ This supplementary material accompanies our study on the role of multicopy plasm
 ## Figures
 
 **Figure 1:** Stochastic plasmid dynamics yield heterogeneous populations.\
-Jupyter Notebook: [code/Fig_1-A_jl.ipynb](Fig_1-A_jl.ipynb)
-Jupyter Notebook: [code/Fig_1-BCDEF_jl.ipynb](Fig_1-BCDEF_jl.ipynb)
+Jupyter Notebook: [Fig_1-A_jl.ipynb](code/Fig_1-A_jl.ipynb)\
+Jupyter Notebook: [Fig_1-BCDEF_jl.ipynb](code/Fig_1-BCDEF_jl.ipynb)
 
 **Figure 2:** Experimental model system.\
 Jupyter Notebook: (...)
