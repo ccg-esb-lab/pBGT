@@ -28,22 +28,15 @@ Jupyter Notebook: [py-Fig_4BCDEF.ipynb](code/py-Fig_4BCDEF.ipynb)
 **Figure 5:** Microscopy montage of a microfluidics semi-lethal pulse.\
 Jupyter Notebook: [py-Fig_5CD.ipynb](code/py-Fig_5CD.ipynb)
 
-## Supplementary Information: Agent-based model
-
-The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to better understand the role of plasmids in the evolution of antibiotic resistance.
-
-PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)
-Jupyter Notebook: (...)
-
 ## Supplementary Figures
 
 PDF: [Supplementary Figures](SI_pBGT.pdf)\
-Jupyter Notebook: [py-Fig_S1.ipynb](code/Supplementery/py-Fig_S1.ipynb)
-Jupyter Notebook: [py-Fig_S2.ipynb](code/Supplementery/py-Fig_S2.ipynb)
-Jupyter Notebook: [py-Fig_S3.ipynb](code/Supplementery/py-Fig_S3.ipynb)
-Jupyter Notebook: [py-Fig_S4.ipynb](code/Supplementery/py-Fig_S4.ipynb)
-Jupyter Notebook: [py-Fig_S5.ipynb](code/Supplementery/py-Fig_S5.ipynb)
-Jupyter Notebook: [py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb](code/Supplementery/py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb)
+Jupyter Notebook: [py-Fig_S1.ipynb](code/Supplementery/py-Fig_S1.ipynb)\
+Jupyter Notebook: [py-Fig_S2.ipynb](code/Supplementery/py-Fig_S2.ipynb)\
+Jupyter Notebook: [py-Fig_S3.ipynb](code/Supplementery/py-Fig_S3.ipynb)\
+Jupyter Notebook: [py-Fig_S4.ipynb](code/Supplementery/py-Fig_S4.ipynb)\
+Jupyter Notebook: [py-Fig_S5.ipynb](code/Supplementery/py-Fig_S5.ipynb)\
+Jupyter Notebook: [py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb](code/Supplementery/py-Fig_S6-S7-S8-S9-S10-S11-S12.ipynb)\
 Jupyter Notebook: [py-Fig_S13.ipynb](code/Supplementery/py-Fig_S13.ipynb)
 
 ## Supplementary Movies
@@ -64,6 +57,13 @@ Cell viewer:
 AVI:
 [SuppMovie2.avi](/movies/SuppMovie2.avi)
 
+
+## Supplementary Information: Agent-based model
+
+The agent-based model simulates the dynamics of bacterial populations with multicopy plasmids under various antibiotic pressures. It incorporates key biological processes like plasmid replication, bacterial growth, and antibiotic-induced mortality. We use computer simulations to explore how plasmid copy number heterogeneity influences the survival of bacterial populations, providing a computational framework to better understand the role of plasmids in the evolution of antibiotic resistance.
+
+PDF: [Agent-Based Model](SI_pBGT_ABM.pdf)
+Jupyter Notebook: [SupplementaryInformation.ipynb](code/Supplementery/SupplementaryInformation/SupplementaryInformation.ipynb)\
 
 ## Authors
 [\@Systems Biology Lab, CCG-UNAM](https://github.com/ccg-esb-lab)
