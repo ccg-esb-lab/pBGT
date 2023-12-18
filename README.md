@@ -32,7 +32,7 @@ Jupyter Notebook: [py-Fig_5CD.ipynb](code/py-Fig_5CD.ipynb)
 
 PDF: [Supplementary Figures](SI_pBGT.pdf)\
 Jupyter Notebook: [py-Fig_S1.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S1.ipynb)\
-Jupyter Notebook: [py-Fig_S2.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S2.ipynb)\
+Jupyter Notebook: [py-Fig_S2.ipynb](code/Supplementary/SupplementaryFigures/py-Fig_S2.ipynb)\
 Jupyter Notebook: [py-Fig_S3.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S3.ipynb)\
 Jupyter Notebook: [py-Fig_S4.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S4.ipynb)\
 Jupyter Notebook: [py-Fig_S5.ipynb](code/Supplementery/SupplementaryFigures/py-Fig_S5.ipynb)\
