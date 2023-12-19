@@ -1,6 +1,7 @@
 *.ipynb_checkpoints
 /data/uJ_data/MGGT-Pulse/data_movies
-/data/uJ_data/pBGT-Ramp/data_movies
+/data/uJ_data/pBGT-Pulse/data_movies
+/data/uJ_data/pBGT-Ramp
 #/code/uJ/*
 /data/sim_data/LB-AMP-LB/*
 README.md

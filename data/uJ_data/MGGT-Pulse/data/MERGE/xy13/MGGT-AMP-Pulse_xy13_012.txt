@@ -1,0 +1,17 @@
+ 	id	imageGFP	imageDsRed	pos	frame	roi_label	GFP	DsRed
+1	0	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n0_x165_y353	118.189	107.556
+2	1	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n1_x175_y344	117.207	107.485
+3	2	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n2_x157_y346	118.548	107.439
+4	3	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n3_x148_y345	118.500	107.564
+5	4	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n4_x167_y325	117.815	107.657
+6	5	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n5_x150_y314	118.072	107.431
+7	6	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n6_x155_y302	117.502	107.691
+8	7	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n7_x197_y307	117.941	107.419
+9	8	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n8_x171_y304	117.977	107.792
+10	9	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n9_x174_y284	116.914	107.605
+11	10	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n10_x156_y277	116.736	107.770
+12	11	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n11_x197_y256	117.413	107.812
+13	12	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n12_x185_y252	117.477	107.648
+14	13	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n13_x165_y251	116.789	107.795
+15	14	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n14_x160_y238	117.391	107.569
+16	15	MGGT-AMP-Pulse_xy13_GFP_012.tif	MGGT-AMP-Pulse_xy13_DsRed_012.tif	xy13	012	roi_f12_n15_x185_y233	119.282	107.317
